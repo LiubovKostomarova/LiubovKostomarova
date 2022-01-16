@@ -1,8 +1,5 @@
-### Hi there 👋
-
-### I am 
-## Liubov Kostomarova 
-### and I am learning Frontend and Mobile development 
+## Liubov Kostomarova 👋
+### Hey, I am learning Frontend and Mobile development 
 
 - 🔭 I have currently worked on a multi-page Flutter App on a topic of a female health. 
 - 🌱 I’m currently learning JavaScript, React, Flutter and Dart.
