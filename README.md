@@ -1,5 +1,5 @@
-## Liubov Kostomarova 👋
-### Hey, I am interested in Frontend and Mobile development 
+## Lubov Kostomarova 👋
+### Hey, I am working in Frontend and Mobile development 
 
 - 🔭 I have currently worked on a multi-page Flutter App on a topic of a female health. 
 - 🌱 I’m currently learning JavaScript, React, Flutter and Dart. And I used to have a role of a Scrum Master in our team projects!
